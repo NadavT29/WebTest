@@ -1,5 +1,17 @@
  #  WebTest 
+ The purpose of the project was to show weather,show an inspirational image and 
+Users can cycle through multiple fetched images
+Users are shown an quote
+Users can write down their goals 
+Users can delete goals
+Users can mark goals as complete
+
+# Technologies used
+ - React - redux : i used in react-redux for a global apis that i will can get a data from everywhere 
+ - Boostraps : i used boostrap to design the website
  
+ 
+  אי
 
 # Getting Started with Create React App
 
